@@ -4,6 +4,7 @@
       <div class="bg-light p-5 rounded">
         <h1>Dietela Test Mini Project</h1>
         <router-link :to="{name: 'user.index'}" class="btn btn-md btn-success">Data User</router-link>
+        <router-link :to="{name: 'pekerjaan.index'}" class="btn btn-md btn-success">Data Pekerjaan</router-link>
       </div>
     </div>
 </template>
